@@ -38,7 +38,7 @@
 ### 🌟 Projects & Highlights
 | Project | Description | Link |
 |---------|-------------|------|
-| **Jazzies Home** | My React portfolio site | [View](https://jazmina.github.io/jazzies-home/) |
+| **Jazzies Home** | My React portfolio site | [View](https://jazmina.github.io/JazminA/) |
 
 
 ---
