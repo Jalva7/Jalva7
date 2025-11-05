@@ -18,9 +18,9 @@
 ---
 
 ### ⚡ GitHub Stats
-![Jalva7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jalva7&show_icons=true&theme=radical)
+![Jalva7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jalva7&show_icons=true&theme=material-palenight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalva7&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalva7&layout=compact&theme=material-palenight)
 
 ---
 
