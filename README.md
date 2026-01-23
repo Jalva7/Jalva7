@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jazmin Alvarado, but you can call me Jazzie
+# Hi there 👋, I'm Jazmin Alvarado Solis, but you can call me Jazzie
 
 ---
 
@@ -9,6 +9,7 @@
 ### 🌱 I’m currently learning
 - Advanced **JavaScript** and **React Hooks**
 - relearning **Python** and **JAVA**
+- Learning **TypeScript**
 
 ### 💬 Ask me about
 - React, Node.js, and frontend development
@@ -38,7 +39,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | **Jazzies Home** | My React portfolio site | [View](https://jalva7.github.io/JazminA/) |
-| **J.Time** | Pomodoro site with Spotify API | [View](https://jalva7.github.io/J.Timer/) |
+| **J.Timer** | Pomodoro site with Spotify API | [View](https://jalva7.github.io/J.Timer/) |
 
 
 ---
